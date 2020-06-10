@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="title">I Am Poor</string>
+    <string name="slogan">Please Donate.</string>
+    <string name="winter">Its Winter,</string>
+    <string name="coal">Coal Will Do!</string>
 </resources>
